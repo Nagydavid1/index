@@ -35,16 +35,16 @@
         }
 
         .container .card:nth-child(1) .icon {
-            background-image: url('html2.jpg');
+            background-color:cornflowerblue;
             
         }
 
         .container .card:nth-child(2) .icon {
-            background-image: url('python.png');
+            background-color: cornflowerblue;
         }
 
         .container .card:nth-child(3) .icon {
-            background: #4aada9;
+            background-color: cornflowerblue;
         }
 
 
